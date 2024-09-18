@@ -10,4 +10,4 @@
 
   =>  Author Website   : https://htmlcodex.com
 
-Also made this website with AI: https://shopzillademo.mobirisesite.com/
+Also made this website with AI: https://shopzillademo.mobirisesite.com/ using Mobirise
