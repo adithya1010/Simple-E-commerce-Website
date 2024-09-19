@@ -11,3 +11,9 @@
   =>  Author Website   : https://htmlcodex.com
 
 Also made this website with AI: https://shopzillademo.mobirisesite.com/ using Mobirise
+
+## Tech stack used:
+
+1. Phoneix Code editor
+2. Mobirise website builder
+3. HTML Codex
